@@ -165,11 +165,11 @@ links:
    #  Icon-Class: fab fa-discord
 
     # PINTEREST
-  - Name: Discord
-    URL: https://discord.com/users
-    Username: '567278831518482432'
-    Color: '#5865F2'
-    Icon-Class: fab fa-discord
+  #- Name: Discord
+   # URL: https://discord.com/users
+   # Username: '567278831518482432'
+   # Color: '#5865F2'
+   # Icon-Class: fab fa-discord
 
  #   # BEHANCE
 #  - Name: Behance
