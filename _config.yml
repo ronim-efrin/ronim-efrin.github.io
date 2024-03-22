@@ -132,13 +132,13 @@ links:
   #  Color: '#0088cc'
   #  Icon-Class: fab fa-telegram-plane
 
- #   # SNAPCHAT
- # - Name: Snapchat
-  #  URL: https://www.snapchat.com/add
-  #  Username: 'harsh98trivedi'
-  #  Color: '#FFFC00'
-  #  Text_Color: '#000000'
-  #  Icon-Class: fab fa-snapchat-ghost
+    # SNAPCHAT
+  - Name: Snapchat
+    URL: https://www.snapchat.com/add
+    Username: 'roni.mja'
+    Color: '#FFFC00'
+    Text_Color: '#000000'
+    Icon-Class: fab fa-snapchat-ghost
 
     # STEAM
   - Name: Steam
