@@ -126,12 +126,12 @@ links:
   #  Icon-Class: fab fa-telegram-plane
   
     # INSTAGRAM
-  - Name: Instagram
-    URL: https://www.instagram.com
-    Username: 'roni.mja'
-    Color: '#DD2A7B'
-    Text_Color: '#FFFFFF'
-    Icon-Class: fab fa-instagram
+ # - Name: Instagram
+ #   URL: https://www.instagram.com
+ #   Username: 'roni.mja'
+ #   Color: '#DD2A7B'
+ #   Text_Color: '#FFFFFF'
+ #   Icon-Class: fab fa-instagram
 
     # SNAPCHAT
   - Name: Snapchat
