@@ -22,6 +22,13 @@ links:
  #   Color: '#3b5998'
  #   Icon-Class: fab fa-facebook
 
+#    # INSTAGRAM
+  - Name: Instagram
+    URL: https://www.instagram.com
+    Username: roni.mja
+    Color: '#DD2A7B'
+    Icon-Class: fab fa-instagram
+
     # TWITTER
  # - Name: Twitter
  #   URL: https://twitter.com
@@ -124,14 +131,6 @@ links:
  #   Username: theharshtrivedi
   #  Color: '#0088cc'
   #  Icon-Class: fab fa-telegram-plane
-  
-    # INSTAGRAM
- # - Name: Instagram
- #   URL: https://www.instagram.com
- #   Username: 'roni.mja'
- #   Color: '#DD2A7B'
- #   Text_Color: '#FFFFFF'
- #   Icon-Class: fab fa-instagram
 
     # SNAPCHAT
   - Name: Snapchat
@@ -158,12 +157,12 @@ links:
     Text_Color: '#000000'
 
   #    DISCORD
-   - Name: Discord
-     URL: https://discord.com/users/
-     Username: '1216220579258957876'
-     Color: '#5865F2'
-     Text_Color: '#ffffff'
-     Icon-Class: fab fa-discord
+   #- Name: Discord
+     #URL: https://discord.com/users/
+     #Username: '567278831518482432'
+     #Color: '#5865F2'
+    # Text_Color: '#ffffff'
+   #  Icon-Class: fab fa-discord
 
     # PINTEREST
   #- Name: Discord
