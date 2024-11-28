@@ -29,11 +29,11 @@ links:
  #   Icon-Class: fab fa-facebook
 
     # INSTAGRAM
-  - Name: Instagram
-    URL: https://www.instagram.com
-    Username: roni.mja
-    Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
+  #- Name: Instagram
+    #URL: https://www.instagram.com
+    #Username: roni.mja
+    #Color: '#DD2A7B'
+    #Icon-Class: fab fa-instagram
 
     # TWITTER
  # - Name: Twitter
