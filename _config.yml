@@ -26,6 +26,7 @@ links:
     URL: https://www.16personalities.com/profiles/18da11aec46b4
     Color: '#e4ae3a'
     Text_Color: '#ffffff'
+    Icon-Class: fab fa-medium-m
     
     # FACEBOOK
  # - Name: Facebook
