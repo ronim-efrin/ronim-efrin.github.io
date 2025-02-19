@@ -24,7 +24,7 @@ links:
     # CUSTOM LINK
   - Name: 16Personalities
     URL: https://www.16personalities.com/profiles/18da11aec46b4
-    Color: '#000000'
+    Color: '#e4ae3a'
     Text_Color: '#ffffff'
     
     # FACEBOOK
@@ -138,11 +138,11 @@ links:
   #   Icon-Class: fab fa-whatsapp
 
     # TELEGRAM
-#  - Name: Telegram
- #   URL: http://telegram.me
- #   Username: theharshtrivedi
-  #  Color: '#0088cc'
-  #  Icon-Class: fab fa-telegram-plane
+  - Name: Telegram
+    URL: http://telegram.me
+    Username: regrtk
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
 
     # SNAPCHAT
 #  - Name: Snapchat
