@@ -20,6 +20,12 @@ links:
   #  URL: https://ronim-efrin.github.io/minbok/
    # Color: '#000000'
     #Text_Color: '#ffffff'
+
+    # CUSTOM LINK
+  - Name: 16Personalities
+    URL: https://www.16personalities.com/profiles/18da11aec46b4
+    Color: '#000000'
+    Text_Color: '#ffffff'
     
     # FACEBOOK
  # - Name: Facebook
