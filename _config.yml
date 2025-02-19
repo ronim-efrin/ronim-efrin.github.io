@@ -131,11 +131,11 @@ links:
   #  Icon-Class: fab fa-reddit-alien
 
   #   # WHATSAPP
-  # - Name: WhatsApp
-  #   URL: https://wa.me
-  #   Username: '+1123456789'
-  #   Color: '#25d366'
-  #   Icon-Class: fab fa-whatsapp
+   - Name: WhatsApp
+     URL: https://wa.me
+     Username: '+46700603854'
+     Color: '#25d366'
+     Icon-Class: fab fa-whatsapp
 
     # TELEGRAM
   - Name: Telegram
