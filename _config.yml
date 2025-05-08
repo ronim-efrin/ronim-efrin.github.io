@@ -154,12 +154,12 @@ links:
   #  Icon-Class: fab fa-snapchat-ghost
 
     # STEAM
-  - Name: Steam
-    URL: https://steamcommunity.com/id
-    Username: 'RoniMAJID'
-    Color: '#171a21'
-    Text_Color: '#FFFFFF'
-    Icon-Class: fab fa-steam
+#  - Name: Steam
+#    URL: https://steamcommunity.com/id
+#    Username: 'RoniMAJID'
+#    Color: '#171a21'
+#    Text_Color: '#FFFFFF'
+#    Icon-Class: fab fa-steam
 
         # EMAIL
   - Name: Wikipedia
