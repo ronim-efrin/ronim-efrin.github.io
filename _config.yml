@@ -2,7 +2,8 @@
 name: Ronî Şikak Mecîd ♰
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Serkeftin bi têkoşîna di yekîtiyê de tê, di bin hoza Xwedê; ez alîgirê tu partiyekê nagrim, tenê sedemê — doza ku ez ji bo şerkirinê re dayik bûm. <br> Ez ji Xwedê re jîn dikim, ne ji bo her kese — ew a tenê hezkirinê min takdîr dike. Doza wî xwestina mine, daxwaza wî daxwaza mine — li ser erdê weke li ezmanan. Amîn
+tagline: ez di mêjê xwe de ma me. 
+# Serkeftin bi têkoşîna di yekîtiyê de tê, di bin hoza Xwedê; ez alîgirê tu partiyekê nagrim, tenê sedemê — doza ku ez ji bo şerkirinê re dayik bûm. <br> Ez ji Xwedê re jîn dikim, ne ji bo her kese — ew a tenê hezkirinê min takdîr dike. Doza wî xwestina mine, daxwaza wî daxwaza mine — li ser erdê weke li ezmanan. Amîn
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Lord%27s_Prayer_in_Arabic_calligraphy.svg/2048px-The_Lord%27s_Prayer_in_Arabic_calligraphy.svg.png
@@ -272,11 +273,11 @@ links:
     #Color: '#FFDD00'
     #Text_Color: '#000000'
 
-   #- Name: Links
-    #URL: https://github.com/harsh98trivedi/links
-    #Icon-Class: fas fa-link
-    #Color: '#d94869'
-    #Text_Color: '#ffffff'
+   - Name: Ultimate Guitar
+    URL: https://www.ultimate-guitar.com/u/ronimajid2
+    Icon-Class: fas fa-link
+    Color: '#FFFF00'
+    Text_Color: '#000000'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'Yes'
@@ -306,3 +307,4 @@ exclude:
 
 # Default Markdown Engine
 markdown: kramdown
+
