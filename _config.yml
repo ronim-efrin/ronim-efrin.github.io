@@ -16,7 +16,7 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
 
-  - Name: Ultimate Guitar
+  - Name: U-Guitar
     URL: https://www.ultimate-guitar.com/u/ronimajid2
     Color: '#FFFF00'
     Text_Color: '#000000'
@@ -307,6 +307,7 @@ exclude:
 
 # Default Markdown Engine
 markdown: kramdown
+
 
 
 
