@@ -23,8 +23,8 @@ links:
     Icon-Class: fas fa-link
     
     # CUSTOM LINK
-  - Name: Stalker Central
-    URL: https://ronim-efrin.github.io/minbok/
+  - Name: stalk me here
+    URL: https://ronim-efrin.github.io/kitab/
     Color: '#000000'
     Text_Color: '#ffffff'
 
@@ -161,12 +161,12 @@ links:
   #  Icon-Class: fab fa-snapchat-ghost
 
     # STEAM
-#  - Name: Steam
-#    URL: https://steamcommunity.com/id
-#    Username: 'RoniMAJID'
-#    Color: '#171a21'
-#    Text_Color: '#FFFFFF'
-#    Icon-Class: fab fa-steam
+  - Name: Steam
+    URL: https://steamcommunity.com/id
+    Username: 'RoniMAJID'
+    Color: '#171a21'
+    Text_Color: '#FFFFFF'
+    Icon-Class: fab fa-steam
 
         # EMAIL
   - Name: Wikipedia
@@ -307,6 +307,7 @@ exclude:
 
 # Default Markdown Engine
 markdown: kramdown
+
 
 
 
