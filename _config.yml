@@ -2,7 +2,7 @@
 name: Ronî Şikak Mecîd ♰
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: ez di mêjê xwe de ma me. 
+tagline: 
 # Serkeftin bi têkoşîna di yekîtiyê de tê, di bin hoza Xwedê; ez alîgirê tu partiyekê nagrim, tenê sedemê — doza ku ez ji bo şerkirinê re dayik bûm. <br> Ez ji Xwedê re jîn dikim, ne ji bo her kese — ew a tenê hezkirinê min takdîr dike. Doza wî xwestina mine, daxwaza wî daxwaza mine — li ser erdê weke li ezmanan. Amîn
 
 # YOUR/BRAND IMAGE URL
@@ -23,7 +23,7 @@ links:
     Icon-Class: fas fa-link
     
     # CUSTOM LINK
-  - Name: Min Personliga Sida 🤐
+  - Name: Stalker Central
     URL: https://ronim-efrin.github.io/minbok/
     Color: '#000000'
     Text_Color: '#ffffff'
@@ -307,6 +307,7 @@ exclude:
 
 # Default Markdown Engine
 markdown: kramdown
+
 
 
 
