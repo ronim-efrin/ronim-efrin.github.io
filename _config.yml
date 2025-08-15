@@ -36,11 +36,11 @@ links:
 #    Icon-Class: fab fa-medium-m
     
     # FACEBOOK
- # - Name: Facebook
- #   URL: https://www.facebook.com
- #   Username: harsh98trivedi
- #   Color: '#3b5998'
- #   Icon-Class: fab fa-facebook
+  - Name: Facebook
+    URL: https://www.facebook.com/ronishikakmajid
+    Username: ronishikakmajid
+    Color: '#3b5998'
+    Icon-Class: fab fa-facebook
 
     # INSTAGRAM
   #- Name: Instagram
@@ -139,11 +139,11 @@ links:
   #  Icon-Class: fab fa-reddit-alien
 
   #   # WHATSAPP
-#  - Name: WhatsApp
-#    URL: https://wa.me
-#    Username: +46700603854
-#    Color: '#25d366'
-#    Icon-Class: fab fa-whatsapp
+  - Name: WhatsApp
+    URL: https://wa.me
+    Username: +46700603854
+    Color: '#25d366'
+    Icon-Class: fab fa-whatsapp
 
     # TELEGRAM
 #  - Name: Telegram
@@ -307,5 +307,6 @@ exclude:
 
 # Default Markdown Engine
 markdown: kramdown
+
 
 
