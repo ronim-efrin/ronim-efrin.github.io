@@ -36,11 +36,11 @@ links:
     Icon-Class: fab fa-medium-m
     
     # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com/
-    Username: ronishikakmajid
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
+ # - Name: Facebook
+  #  URL: https://www.facebook.com/
+   # Username: ronishikakmajid
+    #Color: '#3b5998'
+    #Icon-Class: fab fa-facebook
 
     # INSTAGRAM
   #- Name: Instagram
@@ -139,11 +139,11 @@ links:
   #  Icon-Class: fab fa-reddit-alien
 
   #   # WHATSAPP
-  - Name: WhatsApp
-    URL: https://wa.me
-    Username: +46700603854
-    Color: '#25d366'
-    Icon-Class: fab fa-whatsapp
+  #- Name: WhatsApp
+   # URL: https://wa.me
+    #Username: +46700603854
+    #Color: '#25d366'
+    #Icon-Class: fab fa-whatsapp
 
     # TELEGRAM
 #  - Name: Telegram
@@ -161,12 +161,12 @@ links:
   #  Icon-Class: fab fa-snapchat-ghost
 
     # STEAM
-  - Name: Steam
-    URL: https://steamcommunity.com/id
-    Username: 'RoniMAJID'
-    Color: '#171a21'
-    Text_Color: '#FFFFFF'
-    Icon-Class: fab fa-steam
+#  - Name: Steam
+ #   URL: https://steamcommunity.com/id
+  #  Username: 'RoniMAJID'
+   # Color: '#171a21'
+    #Text_Color: '#FFFFFF'
+    #Icon-Class: fab fa-steam
 
         # EMAIL
   - Name: Wikipedia
@@ -307,6 +307,7 @@ exclude:
 
 # Default Markdown Engine
 markdown: kramdown
+
 
 
 
