@@ -23,10 +23,10 @@ links:
     Icon-Class: fas fa-link
     
     # CUSTOM LINK
-  - Name: stalk me here
-    URL: https://grabify.link/FBG5TJ
-    Color: '#000000'
-    Text_Color: '#ffffff'
+#  - Name: stalk me here
+#    URL: https://grabify.link/FBG5TJ
+#    Color: '#000000'
+#    Text_Color: '#ffffff'
 
     # CUSTOM LINK
   - Name: 16Personalities
@@ -307,6 +307,7 @@ exclude:
 
 # Default Markdown Engine
 markdown: kramdown
+
 
 
 
